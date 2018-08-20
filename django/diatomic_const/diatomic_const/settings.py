@@ -25,7 +25,7 @@ SECRET_KEY = 'h2)p5df#peaxp_4uffv32%k#4h#el757_i8q4!33x%tgj==(a#'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True 
 
-ALLOWED_HOSTS = [u'octahedron.theory.phys.ucl.ac.uk']
+ALLOWED_HOSTS = []
 
 
 # Application definition
